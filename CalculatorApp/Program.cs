@@ -4,10 +4,10 @@
 
 try
 {
-		Console.WriteLine("Enter the First Number"); 
+		Console.WriteLine("Enter the First Number:"); 
 		int firstNumber = Convert.ToInt32(Console.ReadLine());
 
-		Console.WriteLine("Enter the Second Number");
+		Console.WriteLine("Enter the Second Number:");
 		int secondNumber = Convert.ToInt32(Console.ReadLine());
 
 		Console.WriteLine("Enter the Operation (+, -, *, /)");
